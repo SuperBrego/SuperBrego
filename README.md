@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá!
+
+Sou Bernardo da Silva Rego, desenvolvedor e eterno aprendiz de programação.
+Meu foco é em criação de ferramentas para auxílio em jogos de *roleplaying games*, usando ferramentas Front-End, especialmente **React**.
 
 <!--
 **SuperBrego/SuperBrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
